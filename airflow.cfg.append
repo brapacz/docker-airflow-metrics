@@ -1,0 +1,9 @@
+
+[airflow_metrics]
+
+airflow_metrics_enabled = True
+airflow_metrics_tasks_enabled = True
+airflow_metrics_bq_enabled = True
+airflow_metrics_gcs_to_bq_enabled = True
+airflow_metrics_requests_enabled = True
+airflow_metrics_thread_enabled = True

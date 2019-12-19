@@ -1,0 +1,2 @@
+airflow-metrics
+apache-airflow[gcp_api]
